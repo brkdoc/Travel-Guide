@@ -1,2 +1,2 @@
 # City Guide
- RecyclerView,Singleton,ViewBiding,Intent
+ RecyclerView,Singleton,ViewBinding,Intent
